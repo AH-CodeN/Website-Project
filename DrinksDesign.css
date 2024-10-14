@@ -1,0 +1,48 @@
+body {
+    background-image: url("coffee_bar_opaque\ copy.png");
+}
+
+img {
+    background-image: url("bannerdesign.jpg");
+    padding:10px;
+    display: flex;
+    justify-content:space-around;
+}
+
+#P3Layout {
+    width: 100%;
+}
+
+#placementimg {
+    max-width: 5000px;
+    display: flex;
+    justify-content: left;
+}
+
+#plcmnttxt {
+    display:flex;
+    width:100px;
+}
+
+p6 {
+    background-color: rgba(122, 85, 67, 0.301);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 26.5px;
+}
+
+p1 {
+    background-image: url("bannerdesign.jpg");
+    opacity: 0.8;
+    padding:10px;
+    display: flex;
+    justify-content:space-around;
+}
+
+p2 {
+    background-image: url("bannerdesign.jpg"); 
+    padding-top: 5px;
+    padding-left: 200px;
+    padding-right: 180px;
+}

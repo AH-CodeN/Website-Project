@@ -1,0 +1,182 @@
+h1 {
+    font-size: 50px;
+    color:rgb(138, 36, 5)
+}
+
+h2 {
+    font-size: 40px;
+    color:rgb(138, 36, 5)
+}
+
+h3 {
+    font-size: 40px;
+    color:rgb(138, 36, 5)
+}
+
+h4 {
+    font-size: 30px;
+    color:rgb(138, 36, 5)
+}
+
+p {
+    font-size: 25px;
+    background-color: rgba(134, 47, 6, 0.233);
+}
+
+p1 {
+    font-size: 250%;
+    background-color: rgba(134, 47, 6, 0.219);
+}
+
+p2 {
+    font-size: 200%;
+}
+
+p3 {
+    font-size: 200%;
+}
+
+p4 {
+    font-size: 180%;
+}
+
+p5 {
+    background-color: rgba(134, 47, 6, 0.24);
+}
+
+body {
+    background-image: url("cinnamon_roll.jpeg");
+}
+
+#navigation {
+    background-image: url("bannerdesign.jpg");
+    padding: 15px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.navspace {
+    padding-right: 20px;
+}
+
+a:hover {
+    color:rgb(228, 53, 9);
+    font-size: 220%;
+}
+
+.border {
+    border: 5px;
+    border-style:dotted;
+    border-radius: 5px;
+    color:black;
+}
+
+#Title {
+    padding: 5px;
+    display:flex;
+    justify-content:center;
+}
+
+.navbar {
+    font-size: 32px;
+    background-color: rgba(134, 47, 6, 0.507);
+}
+
+#AboutUs {
+    padding-right: 50%;
+    padding-top: 150px;
+}
+
+#Commitments {
+    max-width: 5000px;
+    display: flex;
+    justify-content: space-evenly
+}
+
+.padding {
+    width: 450px;
+    padding-right: 250px;
+    padding-left: 100px;
+    padding-bottom: 120px
+}
+
+
+#space {
+    display: flex;
+    justify-content: right;
+    padding-right: 637px;
+    padding-top: 50px;
+}
+
+#VisitUs {
+    padding-top: 20px;
+    padding-inline: 220px;
+    justify-content:center;
+    padding-bottom: 120px;
+    width: 900px;
+}
+
+.latte {
+    padding-inline: 39.4%;
+    padding-bottom: 10px;
+    display:flex;
+    justify-content:center;
+}
+
+#Hyperlinks {
+    background-color: rgba(134, 47, 6, 0.562);
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+}
+
+#PMenu {
+    display:flex;
+    justify-content:space-between;
+    width: 1740px;
+}
+
+#chocolat {
+    padding-left: 80px;
+    display:flex;
+}
+
+#bckgrnd_brwn {
+    background-color: rgba(134, 47, 6, 0.562);
+    display: flex;
+    justify-content:space-between;
+    width: 95%;
+    padding: 50px;
+}
+
+#MenuLayout {
+    padding-left: 90px;
+    display:flex;
+    justify-content:center;
+    background-color: rgba(134, 47, 6, 0.24);
+}
+
+img {
+    width:23%
+}
+
+#menuhalf {
+    display:flex;
+    justify-content:space-around;
+    width: 900px;
+    padding-right: 90px;
+}
+
+#PricingL {
+    display:flex;
+    justify-content: space-between;
+    font-size: 350%;
+    width: 1580px;
+    padding-left: 9%;
+}
+
+#cintext {
+    display:flex;
+    justify-content:space-evenly;
+    width: 220px;
+}
